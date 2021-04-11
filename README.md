@@ -1,6 +1,7 @@
 # Intro to AI
  ## SMU's Intro to AI practices
  
+## ASSIGNMENT 1 
 #### Question 3
 ###### Construct a small Bayesian network in the pgmpy toolbox. This network models the relationship between yellow fingers, smoking, cancer, weakness, radiation, solar flares, and using a microwave
 
